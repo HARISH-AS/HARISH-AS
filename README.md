@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋 I'm Harish A S</h1>
-
-<h3 align="center">Associate Software Engineer @ Nokia (via Indovision Services)</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Harish%20A%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Associate%20Software%20Engineer%20@%20Nokia&descAlignY=58&descSize=18"/>
 
 <p align="center">
-Python • Full-Stack (Angular/Flask) • Power BI • AWS • AI Automation
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+full-stack+automation+at+Nokia;Python+%7C+Angular+%7C+Flask+%7C+MariaDB;Power+BI+%7C+AWS+%7C+KPI+Dashboards;Designing+multi-agent+AI+pipelines+(LangGraph);Currently+exploring+RAG+%26+agentic+workflows" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -76,4 +76,22 @@ Python • Full-Stack (Angular/Flask) • Power BI • AWS • AI Automation
 
 ---
 
+### Contribution Snake 🐍
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HARISH-AS/HARISH-AS/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+> This snake literally eats my contribution graph and repaints itself daily — set up via a scheduled GitHub Action below.
+
+### Recent Activity
+
+<!--START_SECTION:activity-->
+<!-- This section auto-updates daily via the workflow below -->
+<!--END_SECTION:activity-->
+
+---
+
 <p align="center"><i>📌 Pinned: AgentDEV-MAMA · Automotive Sales Dashboard · Women's Safety Device · AI Pancreatic Segmentation</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer"/>
