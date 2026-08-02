@@ -9,91 +9,64 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/harish-a-s-193906229/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:asharish04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Harish_A_S/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <img src="https://komarev.com/ghpvc/?username=HARISH-AS&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
 </p>
 
-<br/>
+---
 
-## 👋 About Me
+### About Me
 
-```yaml
-role: Associate Software Engineer @ Nokia (via Indovision Services)
-focus: Enterprise Automation · Full-Stack Systems · AI Agents · BI Reporting
-education: Integrated M.Tech, CSE (Business Analytics) — VIT Chennai | CGPA 8.72/10
-certifications:
-  - Microsoft Certified · Power BI Data Analyst Associate (PL-300)
-  - AWS Certified Solutions Architect – Associate (SAA-C03)
-currently_building: AgentDEV-MAMA — a multi-agent LangGraph pipeline that ships PRs autonomously
-exploring: [LangGraph, RAG pipelines, agentic workflows]
-```
+- 🏢 Currently building enterprise automation for Nokia's **Global MI OPS COSI LabOps** platform — full-stack features on **CALM** (Angular, Flask, Python, MariaDB) and **Power BI** reporting with scheduled refresh + KPI alerting.
+- 🎓 Integrated M.Tech, CSE (Business Analytics), VIT Chennai — CGPA 8.72/10.
+- 🤖 Into agentic AI systems — built a multi-agent LangGraph pipeline (**AgentDEV-MAMA**) that turns feature requests into tested, human-approved PRs.
+- 📊 Power BI Data Analyst Associate (PL-300) & AWS Certified Solutions Architect – Associate (SAA-C03).
+- 🌱 Currently exploring: LangGraph, RAG pipelines, and agentic workflows.
 
-<br/>
+### Currently Working On
 
-## 🛠️ Tech Stack
+🔭 Enterprise automation & Power BI reporting at Nokia
+🌱 LangGraph / agentic AI patterns
+⚡ AI + automation side projects
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,r&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=flask,angular,nodejs&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=mysql,mariadb&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-</p>
+---
 
-<br/>
+### Tech Stack
 
-## 🚀 Featured Projects
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Frameworks**
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-### 🤖 [AgentDEV-MAMA](https://github.com/HARISH-AS/AgentDEV-MAMA)
-Multi-agent autonomous development framework.
-Converts natural-language feature requests into tested, human-approved PRs using a 5-agent LangGraph pipeline, local LLM code-gen (Ollama), and Docker-sandboxed pytest verification.
+**Databases**
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-`Python` `LangGraph` `Ollama` `Docker` `PyGithub`
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
+**Analytics**
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-### 🏥 [AI Pancreatic Tumor Segmentation](https://github.com/HARISH-AS/Automated-Segmentation-and-Clinical-Reporting-of-Pancreatic-Tumors)
-Automated medical imaging pipeline for pancreatic tumor segmentation from CT/MRI, with LLM-powered clinical report generation via Groq API + Llama 3.
+**AI / ML**
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-`Python` `AGNO` `TotalSegmentator` `Groq API`
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 [Automotive Sales & Customer Insights](https://github.com/HARISH-AS/Automotive-Sales-Consumer-Insights-Power-BI-Project)
-Interactive Power BI dashboard analyzing sales trends and customer behavior — surfaced an 11.7% KPI shortfall and 58% positive sentiment across shipping/purchase patterns.
-
-`Power BI` `MySQL` `ODBC` `DAX`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ [Women's Personal Safety Device](https://github.com/HARISH-AS/your-repository-here)
-IoT safety device combining fall/vitals monitoring with real-time YOLOv8 + MTCNN detection for automated recording and alerts.
-
-`Raspberry Pi` `YOLOv8` `MTCNN` `IoT Sensors`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HARISH-AS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HARISH-AS&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARISH-AS&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -101,26 +74,24 @@ IoT safety device combining fall/vitals monitoring with real-time YOLOv8 + MTCNN
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARISH-AS&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HARISH-AS&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+---
 
-<br/>
-
-## 🐍 Contribution Snake
+### Contribution Snake 🐍
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HARISH-AS/HARISH-AS/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-<br/>
+> This snake literally eats my contribution graph and repaints itself daily — set up via a scheduled GitHub Action below.
 
-## 📬 Recent Activity
+### Recent Activity
 
 <!--START_SECTION:activity-->
-<!-- auto-updates daily via GitHub Action -->
+<!-- This section auto-updates daily via the workflow below -->
 <!--END_SECTION:activity-->
 
-<br/>
+---
+
+<p align="center"><i>📌 Pinned: AgentDEV-MAMA · Automotive Sales Dashboard · Women's Safety Device · AI Pancreatic Segmentation</i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer"/>
