@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=160&section=header&text=HARISH%20A%20S&fontSize=46&fontColor=39FF14&animation=blink&fontAlignY=42&desc=👾%20Associate%20Software%20Engineer%20@%20Nokia&descAlignY=68&descColor=00E676&descSize=17" width="700"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=38&duration=2500&pause=1200&color=39FF14&background=0D1117&center=true&vCenter=true&width=800&height=160&lines=HARISH+A+S;%F0%9F%91%BE+Associate+Software+Engineer+%40+Nokia;Building+AI+%2B+Automation+at+Nokia;Python+%7C+Angular+%7C+Flask+%7C+Power+BI" width="800"/>
 </p>
 
 <p align="center">
