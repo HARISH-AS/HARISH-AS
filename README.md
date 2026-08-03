@@ -1,63 +1,65 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C853,100:0D1117&height=200&section=header&text=HARISH%20A%20S&fontSize=50&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=👾%20Associate%20Software%20Engineer%20@%20Nokia&descAlignY=58&descColor=39FF14&descSize=18"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C853,100:0D1117&height=200&section=header&text=HARISH%20A%20S&fontSize=50&fontColor=00FF41&animation=blink&fontAlignY=38&desc=👾%20Associate%20Software%20Engineer%20@%20Nokia&descAlignY=58&descColor=39FF14&descSize=18">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8F5E9,50:66BB6A,100:E8F5E9&height=200&section=header&text=HARISH%20A%20S&fontSize=50&fontColor=1B5E20&animation=blink&fontAlignY=38&desc=👾%20Associate%20Software%20Engineer%20@%20Nokia&descAlignY=58&descColor=2E7D32&descSize=18" width="100%">
+</picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=%3E+booting_harish.exe...;%3E+role%3A+Associate+Software+Engineer+%40+Nokia;%3E+stack%3A+Python+%7C+Angular+%7C+Flask+%7C+MariaDB;%3E+building%3A+multi-agent+AI+pipelines+(LangGraph);%3E+status%3A+online+%F0%9F%91%BE" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/harish-a-s-193906229/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:asharish04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Harish_A_S/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <img src="https://komarev.com/ghpvc/?username=HARISH-AS&style=for-the-badge&color=2E7D32&label=VIEWS"/>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/harish-a-s-193906229/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14"/></a>
-  <a href="mailto:asharish04@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39FF14"/></a>
-  <a href="https://leetcode.com/u/Harish_A_S/"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=39FF14"/></a>
-  <img src="https://komarev.com/ghpvc/?username=HARISH-AS&style=for-the-badge&color=000000&label=VIEWS&labelColor=000000"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/pacman-contribution-graph.svg" width="500" alt="pacman contribution graph">
-</p>
-
----
-
-### 👾 `whoami`
-
-```
-> Integrated M.Tech, CSE (Business Analytics) — VIT Chennai | CGPA 8.72/10
-> Currently deployed on: Nokia Global MI OPS COSI LabOps
-> Certified: Power BI Data Analyst Associate (PL-300) · AWS SAA-C03
-> Side quest: AgentDEV-MAMA — agents that ship their own pull requests
-> Grinding: LangGraph, RAG, agentic workflows
-```
 
 <br/>
 
-### 👾 Weapons Loadout
+## 👾 About Me
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,r&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=flask,angular,nodejs&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=mysql,mariadb,aws,docker,git,github,linux&theme=dark" /><br/>
+- 🏢 Currently building enterprise automation for Nokia's **Global MI OPS COSI LabOps** platform — full-stack features on **CALM** (Angular, Flask, Python, MariaDB) and **Power BI** reporting with scheduled refresh + KPI alerting.
+- 🎓 Integrated M.Tech, CSE (Business Analytics), VIT Chennai — CGPA 8.72/10.
+- 🤖 Building **AgentDEV-MAMA** — a multi-agent LangGraph pipeline that ships tested, human-approved pull requests autonomously.
+- 📊 Microsoft Certified: Power BI Data Analyst Associate (PL-300) & AWS Certified Solutions Architect – Associate (SAA-C03).
+- 🌱 Currently exploring: LangGraph, RAG pipelines, agentic workflows.
+
+<br/>
+
+## 👾 Tech Stack
+
+**Languages**
+<img src="https://skillicons.dev/icons?i=python,java,js,r&theme=dark" />
+
+**Web & Frameworks**
+<img src="https://skillicons.dev/icons?i=flask,angular,html,css&theme=dark" />
+
+**Databases**
+<img src="https://skillicons.dev/icons?i=mysql,mariadb&theme=dark" />
+
+**Cloud & Tools**
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux&theme=dark" />
+
+**AI / ML**
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
-<img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=39FF14"/>
-</p>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2E7D32?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-2E7D32?style=flat-square)
 
 <br/>
 
-### 👾 Boss Fights Cleared
+## 👾 Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **🤖 [AgentDEV-MAMA](https://github.com/HARISH-AS/AgentDEV-MAMA)**
-Multi-agent LangGraph pipeline — turns feature requests into tested, human-approved PRs via local LLM code-gen + Docker-sandboxed test verification.
+Multi-agent LangGraph pipeline — turns feature requests into tested, human-approved PRs via local LLM code-gen and Docker-sandboxed test verification.
 `Python` `LangGraph` `Ollama` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-**🏥 [Pancreatic Tumor AI](https://github.com/HARISH-AS/Automated-Segmentation-and-Clinical-Reporting-of-Pancreatic-Tumors)**
-Automated CT/MRI segmentation pipeline with LLM-powered clinical reporting via Groq + Llama 3.
+**🏥 [AI Pancreatic Tumor Segmentation](https://github.com/HARISH-AS/Automated-Segmentation-and-Clinical-Reporting-of-Pancreatic-Tumors)**
+Automated CT/MRI segmentation pipeline with LLM-powered clinical reporting via Groq API + Llama 3.
 `Python` `AGNO` `TotalSegmentator`
 
 </td>
@@ -65,15 +67,15 @@ Automated CT/MRI segmentation pipeline with LLM-powered clinical reporting via G
 <tr>
 <td width="50%" valign="top">
 
-**📊 [Automotive Sales Dashboard](https://github.com/HARISH-AS/Automotive-Sales-Consumer-Insights-Power-BI-Project)**
-Power BI dashboard — surfaced an 11.7% KPI shortfall and 58% positive sentiment in customer data.
+**📊 [Automotive Sales & Customer Insights](https://github.com/HARISH-AS/Automotive-Sales-Consumer-Insights-Power-BI-Project)**
+Power BI dashboard — surfaced an 11.7% KPI shortfall and 58% positive sentiment across shipping/purchase patterns.
 `Power BI` `MySQL` `DAX`
 
 </td>
 <td width="50%" valign="top">
 
-**🛡️ [Safety Device](https://github.com/HARISH-AS/your-repository-here)**
-IoT fall/vitals monitor with real-time YOLOv8 + MTCNN detection.
+**🛡️ [Women's Personal Safety Device](https://github.com/HARISH-AS/your-repository-here)**
+IoT device combining fall/vitals monitoring with real-time YOLOv8 + MTCNN detection.
 `Raspberry Pi` `YOLOv8` `IoT`
 
 </td>
@@ -82,37 +84,64 @@ IoT fall/vitals monitor with real-time YOLOv8 + MTCNN detection.
 
 <br/>
 
-### 👾 Stats & Achievements
+## 👾 GitHub Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HARISH-AS&show_icons=true&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=HARISH-AS&show_icons=true&theme=default&hide_border=true" height="165">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HARISH-AS&layout=compact&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARISH-AS&layout=compact&theme=default&hide_border=true" height="165">
+</picture>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HARISH-AS&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARISH-AS&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=HARISH-AS&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARISH-AS&theme=default&hide_border=true">
+</picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARISH-AS&theme=merko&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HARISH-AS&theme=matrix&no-frame=true&row=1&column=6"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=HARISH-AS&theme=tokyonight&no-frame=true&row=1&column=6">
+  <img src="https://github-profile-trophy.vercel.app/?username=HARISH-AS&theme=flat&no-frame=true&row=1&column=6">
+</picture>
 </p>
 
 <br/>
 
-### 👾 Contribution Snake
+## 👾 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HARISH-AS/HARISH-AS/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HARISH-AS&theme=react-dark&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARISH-AS&theme=minimal&hide_border=true" width="100%">
+</picture>
 </p>
 
 <br/>
 
-### 👾 Recent Signals
+## 👾 Contribution Snake
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HARISH-AS/HARISH-AS/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/HARISH-AS/HARISH-AS/output/github-contribution-grid-snake.svg" alt="snake animation">
+</picture>
+</p>
+
+<br/>
+
+## 👾 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/HARISH-AS/agentdev-mama/pull/1) in [HARISH-AS/agentdev-mama](https://github.com/HARISH-AS/agentdev-mama)
+<!-- auto-updates daily via GitHub Action -->
 <!--END_SECTION:activity-->
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C853,100:0D1117&height=120&section=footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C853,100:0D1117&height=120&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8F5E9,50:66BB6A,100:E8F5E9&height=120&section=footer" width="100%">
+</picture>
