@@ -1,5 +1,7 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:1B5E20,100:00E676&height=200&section=header&text=Hi%20There!%20I'm%20Harish&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Associate%20Software%20Engineer%20%40%20Nokia%20%7C%20Building%20AI%20%2B%20Automation&descAlignY=58&descColor=ffffff&descSize=16"/>
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=38&duration=2500&pause=1200&color=39FF14&background=0D1117&center=true&vCenter=true&width=800&height=160&lines=HARISH+A+S;%F0%9F%91%BE+Associate+Software+Engineer+%40+Nokia;Building+AI+%2B+Automation+at+Nokia;Python+%7C+Angular+%7C+Flask+%7C+Power+BI" width="800"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duration=2500&pause=1200&color=00E676&center=true&vCenter=true&width=700&lines=Associate+Software+Engineer+%40+Nokia;Building+AI+%2B+Automation+at+Nokia;Python+%7C+Angular+%7C+Flask+%7C+Power+BI" width="700"/>
 </p>
 
 <p align="center">
