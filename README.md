@@ -1,9 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00FF41,100:0D1117&height=200&section=header&text=HARISH%20A%20S&fontSize=50&fontColor=00FF41&animation=twinkling&fontAlignY=40&desc=👾%20Associate%20Software%20Engineer%20@%20Nokia&descAlignY=62&descSize=20&descColor=39FF14"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C853,100:0D1117&height=200&section=header&text=HARISH%20A%20S&fontSize=50&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=👾%20Associate%20Software%20Engineer%20@%20Nokia&descAlignY=58&descColor=39FF14&descSize=18"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=%3E+booting_harish.exe...;%3E+role%3A+Associate+Software+Engineer+%40+Nokia;%3E+stack%3A+Python+%7C+Angular+%7C+Flask+%7C+MariaDB;%3E+building%3A+multi-agent+AI+pipelines+(LangGraph);%3E+status%3A+online+👾" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=%3E+booting_harish.exe...;%3E+role%3A+Associate+Software+Engineer+%40+Nokia;%3E+stack%3A+Python+%7C+Angular+%7C+Flask+%7C+MariaDB;%3E+building%3A+multi-agent+AI+pipelines+(LangGraph);%3E+status%3A+online+%F0%9F%91%BE" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="500">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/pacman-contribution-graph.svg" width="500" alt="pacman contribution graph">
 </p>
 
 ---
@@ -117,4 +115,4 @@ IoT fall/vitals monitor with real-time YOLOv8 + MTCNN detection.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00FF41,100:0D1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C853,100:0D1117&height=120&section=footer"/>
