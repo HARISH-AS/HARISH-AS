@@ -1,7 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C853,100:0D1117&height=200&section=header&text=HARISH%20A%20S&fontSize=50&fontColor=00FF41&animation=blink&fontAlignY=38&desc=👾%20Associate%20Software%20Engineer%20@%20Nokia&descAlignY=58&descColor=39FF14&descSize=18">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8F5E9,50:66BB6A,100:E8F5E9&height=200&section=header&text=HARISH%20A%20S&fontSize=50&fontColor=1B5E20&animation=blink&fontAlignY=38&desc=👾%20Associate%20Software%20Engineer%20@%20Nokia&descAlignY=58&descColor=2E7D32&descSize=18" width="100%">
-</picture>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=160&section=header&text=HARISH%20A%20S&fontSize=46&fontColor=39FF14&animation=blink&fontAlignY=42&desc=👾%20Associate%20Software%20Engineer%20@%20Nokia&descAlignY=68&descColor=00E676&descSize=17" width="700"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harish-a-s-193906229/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -25,23 +24,34 @@
 ## 👾 Tech Stack
 
 **Languages**
-<img src="https://skillicons.dev/icons?i=python,java,js,r&theme=dark" />
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 **Web & Frameworks**
-<img src="https://skillicons.dev/icons?i=flask,angular,html,css&theme=dark" />
+![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Angular](https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Databases**
-<img src="https://skillicons.dev/icons?i=mysql,mariadb&theme=dark" />
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MARIADB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 **Cloud & Tools**
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux&theme=dark" />
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**AI / ML**
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-2E7D32?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-2E7D32?style=flat-square)
+**AI / ML & Analytics**
+![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LANGGRAPH-1C3C3C?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge)
 
 <br/>
 
@@ -86,27 +96,17 @@ IoT device combining fall/vitals monitoring with real-time YOLOv8 + MTCNN detect
 
 ## 👾 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HARISH-AS&show_icons=true&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=HARISH-AS&show_icons=true&theme=default&hide_border=true" height="165">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HARISH-AS&layout=compact&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARISH-AS&layout=compact&theme=default&hide_border=true" height="165">
-</picture>
-
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=HARISH-AS&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARISH-AS&theme=default&hide_border=true">
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=HARISH-AS&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARISH-AS&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=HARISH-AS&theme=tokyonight&no-frame=true&row=1&column=6">
-  <img src="https://github-profile-trophy.vercel.app/?username=HARISH-AS&theme=flat&no-frame=true&row=1&column=6">
-</picture>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HARISH-AS&theme=tokyonight&hide_border=true">
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=HARISH-AS&theme=tokyonight&no-frame=true&row=1&column=6">
 </p>
 
 <br/>
@@ -114,10 +114,7 @@ IoT device combining fall/vitals monitoring with real-time YOLOv8 + MTCNN detect
 ## 👾 Contribution Graph
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HARISH-AS&theme=react-dark&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARISH-AS&theme=minimal&hide_border=true" width="100%">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HARISH-AS&theme=react-dark&hide_border=true&area=true&custom_title=Harish's%20Contribution%20Activity&days=365" width="100%">
 </p>
 
 <br/>
@@ -125,10 +122,7 @@ IoT device combining fall/vitals monitoring with real-time YOLOv8 + MTCNN detect
 ## 👾 Contribution Snake
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HARISH-AS/HARISH-AS/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/HARISH-AS/HARISH-AS/output/github-contribution-grid-snake.svg" alt="snake animation">
-</picture>
+<img src="https://raw.githubusercontent.com/HARISH-AS/HARISH-AS/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
 </p>
 
 <br/>
@@ -141,7 +135,6 @@ IoT device combining fall/vitals monitoring with real-time YOLOv8 + MTCNN detect
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C853,100:0D1117&height=120&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8F5E9,50:66BB6A,100:E8F5E9&height=120&section=footer" width="100%">
-</picture>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=80&section=footer" width="700"/>
+</p>
