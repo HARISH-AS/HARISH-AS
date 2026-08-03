@@ -113,27 +113,11 @@ IoT device combining fall/vitals monitoring with real-time YOLOv8 + MTCNN detect
 
 <br/>
 
-## 👾 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HARISH-AS&theme=react-dark&hide_border=true" width="100%">
-</p>
-
-<br/>
-
 ## 👾 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/HARISH-AS/HARISH-AS/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
 </p>
-
-<br/>
-
-## 👾 Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- auto-updates daily via GitHub Action -->
-<!--END_SECTION:activity-->
 
 <br/>
 
