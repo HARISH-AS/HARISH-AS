@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1B5E20,100:00E676&height=200&section=header&text=Hi%20There!%20I'm%20Harish%20A%20S&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Associate%20Software%20Engineer%20%40%20Nokia%20%7C%20Building%20AI%20%2B%20Automation&descAlignY=55&descColor=ffffff&descSize=15"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1B5E20,100:00E676&height=200&section=header&text=Hi%20There!%20I'm%20Harish&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Associate%20Software%20Engineer%20%40%20Nokia%20%7C%20Building%20AI%20%2B%20Automation&descAlignY=55&descColor=ffffff&descSize=15"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2500&pause=1200&color=00E676&center=true&vCenter=true&width=900&lines=Associate+Software+Engineer+%40+Nokia;Building+AI+%2B+Automation+at+Nokia;Python+%7C+Angular+%7C+Flask+%7C+Power+BI" width="900"/>
