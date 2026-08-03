@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:1B5E20,100:00E676&height=200&section=header&text=Hi%20There!%20I'm%20Harish&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Associate%20Software%20Engineer%20%40%20Nokia%20%7C%20Building%20AI%20%2B%20Automation&descAlignY=58&descColor=ffffff&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1B5E20,100:00E676&height=200&section=header&text=Hi%20There!%20I'm%20Harish&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Associate%20Software%20Engineer%20%40%20Nokia%20%7C%20Building%20AI%20%2B%20Automation&descAlignY=55&descColor=ffffff&descSize=15"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duration=2500&pause=1200&color=00E676&center=true&vCenter=true&width=700&lines=Associate+Software+Engineer+%40+Nokia;Building+AI+%2B+Automation+at+Nokia;Python+%7C+Angular+%7C+Flask+%7C+Power+BI" width="700"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2500&pause=1200&color=00E676&center=true&vCenter=true&width=900&lines=Associate+Software+Engineer+%40+Nokia;Building+AI+%2B+Automation+at+Nokia;Python+%7C+Angular+%7C+Flask+%7C+Power+BI" width="900"/>
 </p>
 
 <p align="center">
@@ -99,16 +99,16 @@ IoT device combining fall/vitals monitoring with real-time YOLOv8 + MTCNN detect
 ## 👾 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HARISH-AS&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARISH-AS&layout=compact&theme=tokyonight&hide_border=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=HARISH-AS&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=39FF14&text_color=c9d1d9" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARISH-AS&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=c9d1d9" height="165">
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HARISH-AS&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HARISH-AS&hide_border=true&background=0D1117&ring=00E676&fire=39FF14&currStreakLabel=00E676&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=c9d1d9">
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HARISH-AS&theme=tokyonight&no-frame=true&row=1&column=6">
+<img src="https://github-profile-trophy.vercel.app/?username=HARISH-AS&theme=gruvbox&no-frame=true&row=1&column=6">
 </p>
 
 <br/>
@@ -116,7 +116,7 @@ IoT device combining fall/vitals monitoring with real-time YOLOv8 + MTCNN detect
 ## 👾 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HARISH-AS&theme=react-dark&hide_border=true&area=true&custom_title=Harish's%20Contribution%20Activity&days=365" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HARISH-AS&bg_color=0D1117&color=00E676&line=39FF14&point=ffffff&area=true&area_color=00E676&hide_border=true&custom_title=Harish's%20Contribution%20Activity&days=365" width="100%">
 </p>
 
 <br/>
